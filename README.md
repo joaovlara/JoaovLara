@@ -1,6 +1,6 @@
 <div align="center">
 
-## ---------------------- Hello World!  Eu sou o João! ----------------------
+##  Hello World!  Eu sou o João!
 
 <!--- 
 - 🔭 Trabalho com suporte técnico
