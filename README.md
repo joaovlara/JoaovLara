@@ -11,9 +11,8 @@
 -->
 <div style="display: inline_block">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaovLara&show_icons=true&theme=monokai" alt="João Lara GitHub stats" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovLara&layout=compact&langs_count=16&theme=monokai" alt="João Lara GitHub stats" width="350" height="145"/>
-  
+<img src="https://github-readme-stats.vercel.app/api?username=JoaovLara&rank_icon=github&show_icons=true&&theme=highcontrast" alt="João Lara GitHub stats" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovLara&layout=compact&langs&theme=highcontrast" alt="João Lara GitHub stats" widht="350" height="145"/>  
 </div>
 
 ### Linguagens mais usadas:
