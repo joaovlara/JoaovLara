@@ -1,9 +1,11 @@
 ## Hello World!  Eu sou o João!
 
-- 🔭 Trabalho com suporte técnico
+<!--- 
+🔭 Trabalho com suporte técnico
 - 🌱 Estudando Front-end e Design 
 - 😄 Pronouns: Ele/Dele
 - 👾 Tecnologia e Arte 🖤
+-->
 
 ![João Lara GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaovLara&show_icons=true&theme=merko)
 
