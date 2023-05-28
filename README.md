@@ -8,7 +8,7 @@
 - 👾 Tecnologia e Arte 🖤
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoaovLara&show_icons=true&theme=gruvbox" alt="João Lara GitHub stats" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=JoaovLara&show_icons=true&theme=monokai" alt="João Lara GitHub stats" width="350">
 
 ### Linguagens mais usadas:
 
