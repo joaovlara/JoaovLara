@@ -1,29 +1,24 @@
-<div align="center">
-
 ##  Hello World!  Eu sou o João!
 
-<!--- 
-- 🔭 Trabalho com suporte técnico
-- 🌱 Estudando Front-end e Design 
-- 🎨 Ilustrador
-- 😄 Pronouns: Ele/Dele
-- 👾 Tecnologia e Arte 🖤
--->
-<div style="display: inline_block">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=JoaovLara&rank_icon=github&show_icons=true&&theme=gruvbox&bg_color=00000000" alt="João Lara GitHub stats" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovLara&layout=compact&langs&theme=gruvbox&bg_color=00000000" alt="João Lara GitHub stats" widht="350" height="145"/>  
-</div>
+## Sobre mim
 
-### Linguagens mais usadas:
+* Estudante de Programação e Design. Ilustrador.
+* Graduando de Ánalise e Desenvolvimento de Sistemas na PUCPR
+* Tecnologia, Arte e Design são minha paixão.
 
-</div>
+## Tecnologias:
 
-<div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) 
 
-</div>
+
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
+![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)
+![Ilustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)
