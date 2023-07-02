@@ -1,6 +1,6 @@
 ##  Hello World!  Eu sou o João!
 
-## Sobre mim
+## About
 
 * Estudante de Programação e Design. Ilustrador.
 * Graduando de Ánalise e Desenvolvimento de Sistemas na PUCPR
