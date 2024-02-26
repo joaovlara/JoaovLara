@@ -12,7 +12,7 @@
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![React](https://img.icons8.com/plasticine/100/000000/react.png)
+![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
