@@ -4,7 +4,7 @@
 * Graduando de Ánalise e Desenvolvimento de Sistemas na PUCPR.
 * Tecnologia, Arte e Design são minha paixão.
 
-#### Visite meu site pessoal: [João Lara](https://resume-react-sass.vercel.app/)
+#### Visite meu site pessoal: [João Lara](https://joao-lara.vercel.app/)
  
 ## Tecnologias:
 
