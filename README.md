@@ -4,7 +4,7 @@
 * Graduando de Ánalise e Desenvolvimento de Sistemas na PUCPR.
 * Sou apaixonado por desenvolver com criatividade e eficiencia :)
 
-#### Visite meu site pessoal: [João Lara](https://joao-lara.vercel.app/)
+#### Visite meu site pessoal: [João Lara](https://www.jwaodev.com.br/)
  
 ## Tecnologias:
 
